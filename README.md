@@ -1,2 +1,2 @@
 # pyuthan
-Kathmandu
+Nepal
